@@ -231,8 +231,4 @@ The application will open automatically in your web browser.
 * Deployment using Docker and cloud platforms
 * Feedback collection for continuous improvement
 
----
 
-## License
-
-This project is intended for educational and learning purposes.
